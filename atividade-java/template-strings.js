@@ -1,6 +1,6 @@
-const nome = "Ju";
-const idade = 2021-1981;
-const cidadeDeNascimento = "São Paulo";
+const nome = "jared";
+const idade = 2024-2007;
+const cidadeDeNascimento = "Ponta Grossa";
 
 // const apresentacao = "meu nome é " + nome + ", minha idade é " + idade + " e nasci na cidade de " + cidadeDeNascimento;
 
